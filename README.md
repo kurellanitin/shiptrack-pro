@@ -125,7 +125,7 @@ npm run dev
 
 ## 💬 Author
 
-**Prasanna**
+**Nitin**
 
 ---
 
